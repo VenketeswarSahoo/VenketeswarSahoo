@@ -1,7 +1,7 @@
 ## Hi👋, I am Venkatesh
 #### Full-Stack Web Developer 😀
 # 💫 About Me:
-🔭 I recently completed my Master of Computer Applications (MCA) degree.<br>👯 I’m looking to collaborate with other content creators.<br>🤝 I am seeking guidance in web development and would appreciate your guidance. Can you please point me in the right direction?<br>🌱 I’m currently learning React JS, Next JS, and much more.<br>📫 How to reach me: sahoovenketeswar@gmail.com<br>💬 Ask me about web development.<br>⚡ Fun fact : Everything Is Easy 😉, When You Are Crazy 😜. Nothing Is Easy 😔 When You Are Lazy 😒.
+🔭I have recently completed my Master's degree in Computer Applications (MCA).<br>👯 I’m looking to collaborate with other content creators.<br>🤝 I am seeking guidance in web development and would appreciate your guidance. Can you please point me in the right direction?<br>🌱 I’m currently learning React JS, Next JS, and much more.<br>📫 How to reach me: sahoovenketeswar@gmail.com<br>💬 Ask me about web development.<br>⚡ Fun fact : Everything Is Easy 😉, When You Are Crazy 😜. Nothing Is Easy 😔 When You Are Lazy 😒.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenketeswarSahoo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
